@@ -1,0 +1,1 @@
+ I will show you how to filter table based on user input in JavaScript. We will make a table and an input search bar and if the user starts to type in the search bar, the table gets dynamically filtered based on the user input data (key press). 
